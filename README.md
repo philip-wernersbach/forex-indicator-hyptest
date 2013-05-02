@@ -1,4 +1,4 @@
 forex-indicator-hyptest
 =======================
 
-See the [gh-pages](gh-pages) branch.
+See the [http://github.com/philip-wernersbach/forex-indicator-hyptest/tree/gh-pages](gh-pages) branch.
