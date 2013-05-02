@@ -237,6 +237,11 @@ form {
   
 }
 
+textarea {
+	width: 100%;
+	height: 100px;
+}
+
 
 /* GENERAL ELEMENT TYPE STYLES */
 
@@ -277,6 +282,7 @@ h6 {
 p {
   font-weight: 300;
   margin-bottom: 20px;
+  color: #000000;
 }
  
 a {
@@ -322,6 +328,10 @@ footer a {
 }
 footer a:hover {
   color: #444;
+}
+
+#result {
+	display: none;
 }
 
 /* MISC */
